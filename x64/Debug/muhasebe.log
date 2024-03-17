@@ -1,0 +1,17 @@
+﻿  main.cpp
+E:\VS Projeler\muhasebe\functions.h(109,36): warning C4552: '-': result of expression not used
+E:\VS Projeler\muhasebe\functions.h(125,35): warning C4552: '-': result of expression not used
+E:\VS Projeler\muhasebe\functions.h(263,30): warning C4244: 'initializing': conversion from '_Elem' to 'char', possible loss of data
+          with
+          [
+              _Elem=wchar_t
+          ]
+E:\VS Projeler\muhasebe\main.cpp(25,19): warning C4244: 'initializing': conversion from 'LRESULT' to 'int', possible loss of data
+E:\VS Projeler\muhasebe\main.cpp(32,10): warning C4311: 'type cast': pointer truncation from 'HMENU' to 'int'
+E:\VS Projeler\muhasebe\main.cpp(32,10): warning C4302: 'type cast': truncation from 'HMENU' to 'int'
+E:\VS Projeler\muhasebe\main.cpp(36,10): warning C4311: 'type cast': pointer truncation from 'HMENU' to 'int'
+E:\VS Projeler\muhasebe\main.cpp(36,10): warning C4302: 'type cast': truncation from 'HMENU' to 'int'
+E:\VS Projeler\muhasebe\main.cpp(42,10): warning C4311: 'type cast': pointer truncation from 'HMENU' to 'int'
+E:\VS Projeler\muhasebe\main.cpp(42,10): warning C4302: 'type cast': truncation from 'HMENU' to 'int'
+E:\VS Projeler\muhasebe\functions.h(24): warning C4172: returning address of local variable or temporary: buffer
+  muhasebe.vcxproj -> E:\VS Projeler\muhasebe\x64\Debug\muhasebe.exe
